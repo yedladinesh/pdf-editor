@@ -37,8 +37,4 @@ Click [here](https://github.com/TimZeng/pdf-editor.git) then download the .zip f
 
 ## Issues
 
-* Enable flexible editing on react component [See more](https://github.com/TimZeng/pdf-editor/issues)
-
-## Author
-
-* **Tim Zeng** - *Initial work* - [See More](https://github.com/TimZeng)
+* Enable flexible editing on react component 
